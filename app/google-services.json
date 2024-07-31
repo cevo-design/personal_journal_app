@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "966928436580",
+    "project_id": "personal-jouurnal-app",
+    "storage_bucket": "personal-jouurnal-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966928436580:android:c9ffeab5b71f8832cffe71",
+        "android_client_info": {
+          "package_name": "com.example.personaljouurnalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2KhkoXiJWDDFo4yG1c5StOrmfApP2t1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

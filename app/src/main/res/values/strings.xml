@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Personal Jouurnal App</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="please_select_any_of_the_options_below">Please select any of the options below:</string>
+
+    <string-array name="journal_categories">
+        <item>Select Category</item>
+        <item>Personal</item>
+        <item>Work</item>
+        <item>Travel</item>
+    </string-array>
+</resources>
